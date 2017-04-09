@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExchangeRates</string>
+    <string name="EMPTYCURRENCYLIST">no currency found</string>
+    <string name="update">Update</string>
+    <string name="type_the_currency">Type the currency</string>
+    <string name="refresh">refresh</string>
+</resources>
